@@ -1,0 +1,249 @@
+header{
+    width: 1400px;
+    height: 700px;
+    border: var(--border);
+    margin: auto;
+
+}
+nav{
+    padding-top: 20px;
+    margin: auto;
+    display: flex;
+    width: 90%;
+    height: 10%;
+    border: var(--border);
+}
+.nav-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    height: 100%;
+    border: var(--border);
+}
+.nav-list{
+    padding-top: 10px;
+    display: flex;
+    justify-content: right;
+    width: 70%;
+    height: 85%;
+    border: var(--border);
+}
+.hero{
+    display: flex;
+    width: 100%;
+    height: 86.5%;
+    border: var(--border);
+}
+.hero-text{
+    padding-top: 100px;
+    padding-left: 200px;
+    width: 50%;
+    height: 83.5%;
+    border: var(--border);
+}
+.herot-img{
+    padding-top: 50px;
+}
+.hero-img{
+    padding-top: 50px;
+    padding-left: 300px;
+    width: 50%;
+    height: 100%;
+}
+main{
+    width: 1400px;
+    height: 1150px;
+    border: var(--border);
+}
+section{
+    padding-top: 80px;
+    margin: auto;
+    width: 1400px;
+    height: 600px;
+}
+.what-we-do{
+    margin-top: 10px;
+    list-style: none;
+    width: 100%;
+    height: 100%;
+}
+.What-h1{
+    padding-left: 40px;
+}
+.what-g1{
+    float: left;
+    margin-left: 30px;
+    width: 400px;
+    height: 70%;
+    border: var(--border) ;
+}
+.what-g1-img{
+    padding-left: 90px;
+}
+.what-g1-h3{
+    padding-top: 30px;
+    padding-left: 80px;
+}
+.what-1-p{
+    padding-left: 80px;
+}
+.learn-what{
+    padding-left: 80px;
+}
+.what-g2{
+    margin-top: 40px;
+    float: left;
+    margin-left: 30px;
+    width: 400px;
+    height: 70%;
+    border: var(--border);
+}
+.sec-1{
+    margin-top: 470px;
+    width: 1400px;
+    height: 476px;
+    background-color: rgba(74, 153, 211, 0.1);
+    border: var(--border);
+}
+.How-it-works{
+    width: 950px;
+    height: 286px;
+    margin-top: 24px;
+    margin-left: 245px;
+    border: var(--border);
+}
+.how-h2{
+    color: rgba(74, 153, 211, 1);
+    text-align: center;
+}
+.how-u{
+    list-style: none;
+    margin-top: 50px;
+    width: 908px;
+    height: 180px;
+    border: var(--border);
+}
+.how-li{
+    text-align: center;
+    float: left;
+    margin-left: 48px;
+    width: 224px;
+    height: 180px;
+    border: var(--border);
+}
+.what-our-client{
+    width: 1400px;
+    height: 600px;
+    border: var(--border);
+}
+.our-client{
+    margin: auto;
+    display: flex;
+    width: 1075px;
+    height: 500px;
+    border: var(--border);
+}
+.our-h1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.our-photo{
+    width: 50%;
+    height: 100%;
+    border: var(--border);
+}
+.our-text{
+    padding-left: 90px;
+    padding-top: 200px;
+    width: 50%;
+    height: 60%;
+    border: var(--border);
+}
+.Download{
+    display: flex;
+    width: 1400px;
+    height: 450px;
+    border: var(--border);
+}
+.download-photo{
+    padding-top: 25px;
+    padding-left: 150px;
+    width: 40%;
+    height: 94%;
+    border: var(--border);
+}
+.download-text{
+    padding-top: 100px;
+    text-align: center;
+    width: 50%;
+    height: 78%;
+    border: var(--border);
+}
+footer{
+    display: flex;
+    background-color: rgba(74, 153, 211, 1);
+    width: 1400px;
+    height: 300px;
+    border: var(--border);
+}
+.footer-1{
+    float: left;
+    padding-top: 50px;
+    padding-left: 100px;
+    height: 83%;
+    border: var(--border);
+}
+.footer-2{
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+    width: 30%;
+    height: 90%;
+    border: var(--border);
+}
+.footer-3{
+    padding-left: 20px;
+    padding-top: 30px;
+    color: white;
+    text-align: center;
+    width: 30%;
+    height: 90%;
+    border: var(--border);
+}
+.footer-4{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    width: 30%;
+    height: 90%;
+    border: var(--border);
+}
+.footer-5{
+    padding-top: 30px;
+    padding-left: 20px;
+    width: 50%;
+    height: 90%;   
+    color: white;
+    border: var(--border);
+}
+.footer-6{
+    background-color: rgba(74, 153, 211, 1);
+    width: 1400px;
+    height: 50px;
+    display: flex;
+}
+.fot-6-t{
+    padding-left: 100px;
+    width: 50%;
+    height: 100%;
+    color: white;
+    border: var(--border);
+}
+.fot-6-img{
+    padding-top: 15px;
+    padding-left: 800px;
+    width: 20%;
+    height: 70%;
+    border: var(--border);
+}
